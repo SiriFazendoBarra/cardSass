@@ -1,0 +1,17 @@
+body{
+    background-image: url(../assets/imgs/bg1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+    .main{
+        height: 100vh;
+
+        .card{
+            box-shadow: -9px 9px 18px 4px black;
+        }
+    }
+}
+
+
+
+
